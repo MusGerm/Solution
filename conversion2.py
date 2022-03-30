@@ -36,5 +36,4 @@ class Solution(object):
         return result
 
 if __name__ == "__main__":
-    s = Solution()
-    print(s.conversion2('41'))
+    print(Solution().conversion2('41'))
